@@ -1,9 +1,9 @@
 {
-	"name": "electron-dl",
-	"version": "1.11.0",
+	"name": "@neutrinog/electron-dl",
+	"version": "1.11.1",
 	"description": "Simplified file downloads for your Electron app",
 	"license": "MIT",
-	"repository": "sindresorhus/electron-dl",
+	"repository": "neutrinog/electron-dl",
 	"author": {
 		"name": "Sindre Sorhus",
 		"email": "sindresorhus@gmail.com",
